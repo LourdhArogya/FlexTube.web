@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FlexTube.web/static/css/main.26cb9ed7.css",
+    "main.js": "/FlexTube.web/static/js/main.a0724ed7.js",
+    "index.html": "/FlexTube.web/index.html",
+    "main.26cb9ed7.css.map": "/FlexTube.web/static/css/main.26cb9ed7.css.map",
+    "main.a0724ed7.js.map": "/FlexTube.web/static/js/main.a0724ed7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26cb9ed7.css",
+    "static/js/main.a0724ed7.js"
+  ]
+}
